@@ -1,0 +1,15 @@
+﻿  main.c
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(30): warning C4013: realloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(30): warning C4047: =: "Map **" отличается по уровням косвенного обращения от "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(31): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(31): warning C4047: =: "Map *" отличается по уровням косвенного обращения от "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(73): warning C4047: =: "char *" отличается по уровням косвенного обращения от "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(54): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(55): warning C4047: инициализация: "Dictionary *" отличается по уровням косвенного обращения от "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(52): warning C4101: i: неиспользованная локальная переменная
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(162): warning C4047: =: "char *" отличается по уровням косвенного обращения от "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(136): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(135): warning C4101: i: неиспользованная локальная переменная
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(187): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+c:\users\acer es1-572-p5no\source\repos\lab10\cursach\main.c(123): warning C4715: getCodeByWord: значение возвращается не при всех путях выполнения
+  Cursach.vcxproj -> C:\Users\Acer ES1-572-P5NO\Source\Repos\lab10\Debug\Cursach.exe
